@@ -9,4 +9,7 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  build: {
+    outDir: 'dist', // Ensures the build output is in the 'dist' directory
+  },
 });
