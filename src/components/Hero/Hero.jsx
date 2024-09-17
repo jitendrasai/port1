@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Jitendra Sai Vigrahala</h1>
         <p className={styles.description}>
         An analytical thinker with a strong background in data science, including expertise in Python, SQL, and data visualization tools.
-        With one year of experience in applying machine learning algorithms, statistical analysis, and data preprocessing,
+        With one year of experience in applying machine learning algorithms, statistical analysis, and data preprocessing.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me

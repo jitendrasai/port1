@@ -1,3 +1,4 @@
+
 @import "../../vars.css";
 
 .container {
@@ -20,7 +21,7 @@
 }
 
 .title {
-  font-size: 60px;
+  font-size: 6vw;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -34,7 +35,7 @@
 }
 
 .description {
-  font-size: 30px;
+  font-size: 3vw;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
@@ -103,9 +104,12 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 
   .content {
     align-items: center;
+    margin-top: 20px;
   }
 }
