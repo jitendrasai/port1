@@ -1,29 +1,14 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+    "role": "Systems Engineer",
+    "organisation": "Societe Generale",
+    "startDate": "June, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Developed and enforced Azure policies to ensure compliance, security, and governance standards are consistently met across the organization’s cloud environment",
+     "Automated the provisioning of Azure resources and services using Azure Resource Manager (ARM) Templates , streamlining deployment processes and reducing manual effort",
+     "Created PowerShell scripts and Azure Automation Runbooks to automate daily tasks and rapidly implement time-intensive requirements, enhancing operational efficiency and reliability"],
+    "imageSrc": "history/sg.png"
   }
 ]
+
+

@@ -1,30 +1,50 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "ML",
+    "imageSrc": "skills/ml.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Tableau",
+    "imageSrc": "skills/ta.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Power bi",
+    "imageSrc": "skills/bi.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/pandas.png"
+  },
+  {
+    "title": "NLP",
+    "imageSrc": "skills/nlp.png"
+  },
+  {
+    "title": "Statistics",
+    "imageSrc": "skills/sta.png"
+  },
+  {
+    "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },
+  {
+    "title": "Powershell",
+    "imageSrc": "skills/ps.png"
   }
 ]

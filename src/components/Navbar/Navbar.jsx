@@ -8,9 +8,8 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
-        Portfolio
-      </a>
+      <span className={styles.title}>Portfolio</span>
+      <div className={styles.menu}></div>
       <div className={styles.menu}>
         <img
           className={styles.menuBtn}
